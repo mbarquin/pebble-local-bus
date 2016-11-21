@@ -1,0 +1,67 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "moises.barquin@gmail.com",
+    "longName": "Autobuses Vigo",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/busfrente64.png",
+                "name": "IMAGES_BUSFRENTE64_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/bus15grey.png",
+                "menuIcon": true,
+                "name": "IMAGES_BUS15GREY_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/star15bw.png",
+                "name": "IMAGES_STAR15BW_PNG",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/wrench15bw.png",
+                "name": "IMAGES_WRENCH15BW_PNG",
+                "type": "bitmap"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Autobuses Vigo",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "3939e279-35eb-4a31-bae6-1837f69137a3",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
